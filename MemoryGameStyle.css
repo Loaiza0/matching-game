@@ -1,0 +1,10 @@
+body {
+    background-image: url(background.jpg);
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100;
+    height: 200;
+    margin-left: 10%;
+}
